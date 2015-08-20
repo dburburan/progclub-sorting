@@ -1,4 +1,4 @@
-var FPS = 600;
+var FPS = 60;
 
 var frame_time_ms = 1000.0 / FPS;
 
